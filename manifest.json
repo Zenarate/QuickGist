@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "QuickGist",
+    "version": "0.0.1",
+    "icons":{
+        "16": "quickgist_icon.png",
+        "48": "quickgist_icon.png",
+        "128": "quickgist_icon.png"
+    }
+}
